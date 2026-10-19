@@ -1,6 +1,6 @@
 # Hi, I'm Sibans Behera 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FD1C5&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+Infrastructure;Platform+Automation;CI%2FCD+Specialist)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FD1C5&center=true&vCenter=true&width=750&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Platform+Automation+Engineer;CI%2FCD+Specialist)
 
 I’m a DevOps and Cloud Engineer passionate about building scalable, secure, and resilient systems that help teams deliver software faster and more reliably.
 
@@ -101,18 +101,17 @@ Implementing monitoring, alerting, and operational best practices to improve upt
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[your-github-username]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sibans18&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[your-github-username]&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibans18&layout=compact&theme=radical)
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: [your-linkedin-url]
-- Portfolio: [your-portfolio-url]
-- GitHub: [github.com/sibans18]
-- Email: [sibansbehera453@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/sibansbehera
+- GitHub: github.com/sibans18
+- Email: sibansbehera453@gmail.com
 - Twitter/X: [your-twitter-url]
 
 ---
