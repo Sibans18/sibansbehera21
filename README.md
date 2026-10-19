@@ -112,7 +112,7 @@ Implementing monitoring, alerting, and operational best practices to improve upt
 - LinkedIn: https://www.linkedin.com/in/sibansbehera
 - GitHub: https://www.github.com/sibans18
 - Email: sibansbehera453@gmail.com
-- Twitter/X: [your-twitter-url]
+- Twitter/X: https://x.com/__melbourne82__?s=11
 
 ---
 
