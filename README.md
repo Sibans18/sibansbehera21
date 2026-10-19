@@ -126,6 +126,6 @@ I believe great DevOps is not just about tools — it’s about creating systems
 
 ### Badges / Quick Profile Summary
 
-![Profile Views](https://komarev.com/ghpvc/?username=[your-github-username]&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/[your-github-username]?style=social)
-![GitHub stars](https://img.shields.io/github/stars/[your-github-username]?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Sibans18&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Sibans18?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Sibans18?style=social)
