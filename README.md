@@ -4,7 +4,7 @@
 
 I’m a DevOps and Cloud Engineer passionate about building scalable, secure, and resilient systems that help teams deliver software faster and more reliably.
 
-- 🌍 Based in Hyderabad,India
+- 🌍 Based in Hyderabad, India
 - ☁️ Cloud Platforms: AWS, Azure, GCP
 - 🧩 Specializing in DevOps, infrastructure automation, and cloud-native architecture
 - 📈 Focused on reliability, observability, security, and cost optimization
